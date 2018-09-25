@@ -3,7 +3,8 @@ def speak_to_grandma(phrase)
   if phrase.uppercase == false
     return "HUH?! SPEAK UP, SONNY!"
     elsif phrase.uppercase == true 
-    return ""
+    return "NO, NOT SINCE 1938!"
+  else 
   
 
 # Whatever you say to grandma, she should respond with
